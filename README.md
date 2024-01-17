@@ -39,7 +39,7 @@ This project intends to look at Airbnb review sentiment in Denver, Colorado (USA
 
 Here's the question I'm aiming to look at:
 
-1. How is the rating distribution between cities? 
+1. How is the rating across properties in Denver? 
 2. What are the most frequent words used in reviews?
 3. How is the performance of sentiment analysis in the reviews?
 4. Is the sentiment analysis able to classify sentiments?
