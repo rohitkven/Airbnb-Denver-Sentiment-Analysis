@@ -8,6 +8,8 @@ Using Python 3 and some popular libraries.
 [nltk](https://www.nltk.org/), [matplotlib](https://matplotlib.org/) , [pandas](https://pandas.pydata.org/)
 
 
+
+
 ## Business Understanding
 
 Bad review could turn customers away.
@@ -29,6 +31,8 @@ These are the questions that we wish to answer in this analysis :
 - How to detect negative reviews and does it robust enough to detect the sentiment?
 
 
+
+
 ## Project Motivation
 
 This project intend to look Airbnb review sentiment in Denver, Colorado (USA). 
@@ -44,6 +48,8 @@ The data was collected by Inside Airbnb
 (http://insideairbnb.com) and made available under a Creative Commons license.
 
 
+
+
 ## Data Understanding
 
 The data taken from Inside Airbnb (http://insideairbnb.com) for the city of Denver, CO
@@ -56,6 +62,8 @@ First, we will find the overall rating of the service and find the popular revie
 Then we will use the sentiment analysis to find bad reviews
 
 The sentiment analysis uses NLTK, which is a powerful language tool to analyze text data. 
+
+
 
 
 ## Results:
